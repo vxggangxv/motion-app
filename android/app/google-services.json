@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "54266724577",
+    "project_id": "motion-5fc53",
+    "storage_bucket": "motion-5fc53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54266724577:android:824b8cefa425ccbae3b7a0",
+        "android_client_info": {
+          "package_name": "com.dofmotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54266724577-jg31i9cpu61qbfg85e9tvt5n27532a0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dofmotion",
+            "certificate_hash": "c71f53f6d6f4ea9fbcb9a0f629632ae09a9f2e66"
+          }
+        },
+        {
+          "client_id": "54266724577-n1up2kg08465livhc4jcrv6i4fqsp3uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMqT3Ls1ZkLam8XgbAlEkuao3Qw6suOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54266724577-n1up2kg08465livhc4jcrv6i4fqsp3uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

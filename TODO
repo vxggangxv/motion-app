@@ -1,0 +1,32 @@
+MotionApp: @est-total(2021-05-03 ~ 2021-07-07)
+  Todo: 
+    ✔ app media library @done(21-06-11 10:14)
+    ✔ Camera 기능 확인 @done(21-06-18 18:10)
+    ✔ 기존 카메라앱 연결 또는 갤러리 연결 vs 앱에서 기능 구동 - 결정 후 변경 @done(21-06-18 18:11)
+    ㄴ 카메라만 기기 카메라 연결
+    ✔ Firebase Notiifications 확인 @done(21-06-18 18:11)
+    ❍ post /serial/enroll/:serialNo - 등록된 상품 다시 등록 가능? 
+    ❍ android 빌드 erorr issue해결, 빌드 후 Apk Network failed issue 해결
+    ❍ Background notifications - serial_bak, serial (topic 구독 사용으로 변경)
+    ❍ firebase notifications - Machine 실시간 데이터 -> socket 으로 변경 
+    ㄴ Machine screen에서 벗어나지 않고 앱 종료시 계속 구독상태로 남게 된다. 구독, 구독취소 flow 변경
+    ❍ uri, type, name - 이메일 서버에 전송 변경 
+    ㄴ file = { uri: 'name', type: 'image/jpeg', name: 'name' }
+    ❍ 안드로이드 스토어 등록 시작
+    ❍ 스토어 배포하면서 splash 이미지 등록
+    ❍ google play store 배포
+    ❍ ios app store 배포
+    ❍ 배포 후 code push setup
+  Done:
+    ✔ apollo-client local state managment - useReactiveVar 를 사용한 api요청 error, loading 관리 @done(21-06-02 09:34)
+    ✔ TermModal - ScrollView @done(21-05-31 19:13)
+    ✔ Join - complete @done(21-05-31 19:13)
+    ✔ ResetPassword @done(21-06-01 19:11)
+    ✔ Modal down direction gesture - closeModal @done(21-06-03 14:53)
+    ✔ Setting - Gesture Modal @done(21-06-07 16:39)
+    ✔ Tool @done(21-06-07 16:39)
+    ✔ Support - machine check @done(21-06-10 09:16)
+    ✔ Login, CreatAccount - navigation reset push @done(21-06-10 09:16)
+  Pending: 
+    ❍ 화면 회전 방지 - expo install expo-screen-orientation [https://docs.expo.io/versions/latest/sdk/screen-orientation/] or responsive width 적용
+    ❍ AppModal - Swipe 기능 추가 및 scrollView issue는 스크롤바를 통한 gesture이벤트 실행으로 대체

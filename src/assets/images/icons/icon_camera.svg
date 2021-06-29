@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="0 0 20 15">
+  <g id="icon_camera" transform="translate(0)">
+    <g id="그룹_2897" data-name="그룹 2897" transform="translate(7.105 4.604)">
+      <g id="그룹_2896" data-name="그룹 2896">
+        <g id="그룹_2895" data-name="그룹 2895">
+          <g id="그룹_2894" data-name="그룹 2894">
+            <g id="그룹_2893" data-name="그룹 2893">
+              <circle id="타원_376" data-name="타원 376" cx="2.896" cy="2.896" r="2.896" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="그룹_2902" data-name="그룹 2902" transform="translate(0 0)">
+      <g id="그룹_2901" data-name="그룹 2901" transform="translate(0)">
+        <g id="그룹_2900" data-name="그룹 2900">
+          <g id="그룹_2899" data-name="그룹 2899">
+            <g id="그룹_2898" data-name="그룹 2898">
+              <path id="패스_2128" data-name="패스 2128" d="M127.173,394.835H110.031a1.47,1.47,0,0,0-1.428,1.5v12a1.47,1.47,0,0,0,1.428,1.5h17.143a1.47,1.47,0,0,0,1.429-1.5v-12A1.47,1.47,0,0,0,127.173,394.835Zm-8.571,12a4.505,4.505,0,1,1,4.286-4.5A4.4,4.4,0,0,1,118.6,406.835Zm7.143-9H123.6a.751.751,0,0,1,0-1.5h2.143a.751.751,0,0,1,0,1.5Z" transform="translate(-108.602 -394.835)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
