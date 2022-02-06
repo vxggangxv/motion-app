@@ -1,7 +1,7 @@
 # DofMotion App
 
 - react-native, react navigation, recoil, apollo client
-- scheme url, universal url(url을 통한 앱 접근, e.g 앱압림 틀릭시 적용)
+- scheme url, universal url(url을 통한 앱 접근, e.g 앱 알림 클릭시 적용)
 - photo, camera(사진 탐색기, 사진 촬영)
 - realtime push notification (firebase notification, https://firebase.google.com/docs/cloud-messaging?hl=ko)
 - internal WebView(앱내 internal로 웹뷰 보여주기)
