@@ -54,4 +54,4 @@ buck-out/
 web-build/
 
 # Custom
-assets/images
+*/assets/images
