@@ -6,4 +6,4 @@
 - realtime push notification (firebase)
 - internal WebView
 - splashScreen, preloading
-- codePush
+- codePush(https://microsoft.github.io/code-push/)
